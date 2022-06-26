@@ -32,3 +32,11 @@ attributes in the dataset.
 
 
 ![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Flucidbooks.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fgoodreads.jpg&imgrefurl=https%3A%2F%2Flucidbooks.com%2F8-ways-authors-can-use-goodreads-to-promote-their-books%2F&tbnid=bbjkFoESivqDRM&vet=12ahUKEwjcnOm93cv4AhXL44UKHRdnD-EQMygCegUIARCwAQ..i&docid=gGgADsDO64SqLM&w=580&h=388&q=goodreads%20&client=firefox-b-d&ved=2ahUKEwjcnOm93cv4AhXL44UKHRdnD-EQMygCegUIARCwAQ)
+
+The results of our data exploration involving a thorough understanding of all the features of the dataset are summarized in the DataExploration.ipynb notebook.
+ We have created three (3) models: 
+-AdaBoost
+-Linear Regression
+-Ridge Regression 
+and predicts the average score of test set cases using the same.
+we answered some important business questions by further exploring the dataset and finding more insights.
