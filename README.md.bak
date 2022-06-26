@@ -1,6 +1,6 @@
 # Books-rating-predictions
 Nowadays with so many books available, it can be hard to select the best ones to read. The
-dataset provided is a curation of [Goodreads Datasets] (https://www.goodreads.com/) books based on real user information. It can be
+dataset provided is a curation of Goodreads books based on real user information. It can be
 used for many tasks like predicting a book’s rating or recommending new books.
 Below is the information you have regarding the dataset attributes:
 	1) bookID: A unique identification number for each book.
@@ -27,7 +27,7 @@ Below is the information you have regarding the dataset attributes:
 Here are additional resources that may be helpful for the project. These resources are not
 mandatory to use but are meant to give you ideas on enriching the data or analysing the
 attributes in the dataset.
-● Goodreads Datasets[Goodreads Datasets](https://www.google.com)
+● Goodreads Datasets
 ● Recommending Goodreads Books using Data Mining
 
 
